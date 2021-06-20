@@ -1,0 +1,17 @@
+Lecture # 9
+
+Covers:
+Widgets & Stylings in Flutter
+1) Padding
+2) Margin
+3) Align
+4) Positioned
+5) Stack
+6) Mediaquery
+7) Navigator
+8) ListTile
+9) Widget
+10) Circleavatar
+11) Images
+12) Gradient
+13) Boxdecoration
